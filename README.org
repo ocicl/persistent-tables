@@ -1,0 +1,10 @@
+* persistent-tables
+
+Persistent, functional hash tables for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/VincentToups/persistent-tables.git   |
+| commit  | 469e40e  |
+| systems | persistent-tables |
+|---------+-------------------------------------------|
+
